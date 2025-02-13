@@ -39,6 +39,6 @@ def contador_on_off(text):
 
 # hfy3hud=jdon52=hdoff3jon-2=f
 
-text= input("Escreva frase pretendida:")
+text= input("Escreva frase pretendida: ")
 contador_on_off(text)
                 
