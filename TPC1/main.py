@@ -36,6 +36,7 @@ def contador_on_off(text):
     if num_atual and num_atual not in ["-"] and soma_ativa:
         soma_total += int(num_atual)
 
+    print(soma_total)
 
 # hfy3hud=jdon52=hdoff3jon-2=f
 

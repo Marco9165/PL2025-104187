@@ -11,7 +11,7 @@ O TPC1 consiste em desenvolver um programa python que percorre um texto caracter
 
 **Entrada:**
 ```
-hfy3hud=jdon52=hdoff3jon-2=f
+hfy3hud=jdon52=hdoff3jon-2=f-53
 ```
 
 **Saída:**
@@ -19,6 +19,7 @@ hfy3hud=jdon52=hdoff3jon-2=f
 3
 55
 53
+0
 ```
 
 - **Data**: 12/02/2025
