@@ -1,5 +1,11 @@
 # TPC2 - Análise de um dataset de obras musicais
 
+- **Data**: 20/02/2025
+- **Nome** : Marco António Fernandes Brito
+- **Numero** : a104187
+
+ ![104187](/img/104187.png)
+
 ## 📌 Descrição
 O TPC2 consiste em desenvolver um programa python que lê um arquivo CSV contendo informações sobre obras musicais e fornece diferentes análises sobre os dados. 
 
@@ -358,9 +364,6 @@ Contemporâneo:
 
 ```
 
-- **Data**: 12/02/2025
-- **Nome** : Marco António Fernandes Brito
 
- ![104187](/img/104187.png)
 
 
