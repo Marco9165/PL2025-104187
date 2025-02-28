@@ -17,8 +17,8 @@ Syntax" da Cheat Sheet
   -  Negrito (**texto**).
   -  Itálico (*texto*).
   -  Listas numeradas (1., 2., 3., 4., ...).
-  -  Links ([texto](URL)).
-  -  Imagens (![texto alternativo](URL)).
+  -  Links (\[texto]\(URL)).
+  -  Imagens (\!\[texto alternativo]\(URL)).
 
 
 ## 📌 Testar
