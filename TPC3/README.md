@@ -13,13 +13,12 @@ Syntax" da Cheat Sheet
 ## 📌 Funcionalidades
   Transformar:
 
-  - Cabeçalhos (#, ##, ###) → <h{1,2,3}>texto<h{1,2,3}>
-  - Negrito (texto → <b>texto</b>)
-  - Itálico (texto → <i>texto</i>)
-  - Listas numeradas (1. texto, 2.texto,3.texto)
-  - Links (texto → <a href=URL>texto</a>)
-  - Imagens (alt → <img src=URL alt=alt/>)
-
+  -  Cabeçalhos (#, ##, ###).
+  -  Negrito (**texto**).
+  -  Itálico (*texto*).
+  -  Listas numeradas (1., 2., 3., 4., ...).
+  -  Links ([texto](URL)).
+  -  Imagens (![texto alternativo](URL)).
 
 
 ## 📌 Testar
