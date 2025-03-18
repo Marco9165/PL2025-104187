@@ -1,0 +1,41 @@
+{
+    "stock":[
+        {
+          "cod": "A23",
+          "nome": "Água 0.5L",
+          "quant": 8,
+          "preco": 0.7
+        },
+        {
+          "cod": "B12",
+          "nome": "Refrigerante Cola 0.33L",
+          "quant": 10,
+          "preco": 1.2
+        },
+        {
+          "cod": "C34",
+          "nome": "Sumo de Laranja 0.33L",
+          "quant": 5,
+          "preco": 1.5
+        },
+        {
+          "cod": "D56",
+          "nome": "Batata Frita 50g",
+          "quant": 7,
+          "preco": 1.0
+        },
+        {
+          "cod": "E78",
+          "nome": "Chocolate 100g",
+          "quant": 6,
+          "preco": 1.8
+        },
+        {
+          "cod": "F90",
+          "nome": "Pastilha Elástica",
+          "quant": 15,
+          "preco": 0.5
+        }
+    ]
+}
+  
