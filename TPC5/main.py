@@ -2,7 +2,7 @@ import json
 import os
 import ply.lex as lex
 
-STOCK_FILE = "stock.json"
+
 COINS = {"2E":200,"1E": 100, "50C": 50, "20C": 20, "10C": 10, "5C": 5, "2C": 2, "1C": 1}
 
 tokens = (
@@ -40,14 +40,14 @@ def t_error(t): t.lexer.skip(1)
 lexer = lex.lex()
 
 def load_stock():
-    if os.path.exists(STOCK_FILE):
-        with open(STOCK_FILE, "r") as f:
+    if os.path.exists("stock.json"):
+        with open("stock.json", "r") as f:
             data = json.load(f)
         return data.get("stock", [])
     return []
 
 def save_stock(stock):
-    with open(STOCK_FILE, "w") as f:
+    with open("stock.json", "w") as f:
         json.dump({"stock": stock}, f, indent=2)
 
 def listar(stock):
